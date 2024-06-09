@@ -26,7 +26,7 @@ CloudWatch: Used to schedule and trigger the Lambda function.
 
 **Prerequisites**
 
-AWS Account
-AWS CLI configured with appropriate permissions
-Python 3.x
+AWS Account, 
+AWS CLI configured with appropriate permissions, 
+Python 3.x, 
 Boto3 library
