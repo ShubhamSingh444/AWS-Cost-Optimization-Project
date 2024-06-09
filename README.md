@@ -21,9 +21,15 @@ The Lambda function is event-driven and can be triggered using AWS CloudWatch.
 
 **Components**
 Lambda Function: Written in Python using Boto3 to interact with AWS APIs.
+
 CloudWatch: Used to schedule and trigger the Lambda function.
+
 Prerequisites
+
 AWS Account
+
 AWS CLI configured with appropriate permissions
+
 Python 3.x
+
 Boto3 library
